@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my GitHub page!</h1>
 
-<h3>I'm a software engineer based out of Seattle with a background in behavioral therapy and education. I channel my passion for helping people into my work creating human-centered web applications.</h3>
+<h3>I'm a software engineer based out of Seattle with a background in behavioral therapy and special education. I channel my passion for helping people into my work creating human-centered web applications.</h3>
 
 <h3>When I'm not coding I can be found running, camping on top of mountains, or building hi-fi speakers!</h3>
 
-<h3>Currently I'm diving into MongoDB and Express to build more robust, full-stack, applications.</h3>
+<h3>Currently I'm diving into the backend with PostgreSQL and Express to build robust, full-stack, applications.</h3>
 
 <h3 align="center">You can find me here:</h3>
 <p align="center">
