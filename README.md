@@ -4,7 +4,7 @@
 
 <h3>When I'm not coding I can be found running, camping on top of mountains, or building hi-fi speakers!</h3>
 
-<h3>Currently I'm diving into the backend with PostgreSQL and Express to build robust, full-stack, applications.</h3>
+<h3>Currently I'm building a web app for backcountry skiers to assess current and forecasted conditions.</h3>
 
 <h3 align="center">You can find me here:</h3>
 <p align="center">
