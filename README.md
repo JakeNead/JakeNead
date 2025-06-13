@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my GitHub page!</h1>
 
-<h3>I'm a software engineer based out of Seattle with a background in behavioral therapy and special education. I channel my passion for helping people into my work creating human-centered web applications.</h3>
+<h3>I'm a software engineer based out of Seattle with a background in behavioral therapy and special education. I channel my passion for helping people into my work, creating human-centered web applications.</h3>
 
-<h3>When I'm not coding I can be found running, camping on top of mountains, or building hi-fi speakers!</h3>
+<h3>When I'm not coding, I can be found running, camping on top of mountains, or building hi-fi speakers!</h3>
 
-<h3>Currently I'm building a web app for backcountry skiers to assess current and forecasted conditions.</h3>
+<h3>Currently, I'm splitting my time between React Native freelance work and volunteering with Wevise to create a free mentorship platform for underserved communities.</h3>
 
 <h3 align="center">You can find me here:</h3>
 <p align="center">
