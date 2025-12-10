@@ -4,7 +4,7 @@
 
 <h3>When I'm not coding, I can be found running, camping on top of mountains, or building hi-fi speakers!</h3>
 
-<h3>Currently, I'm working on expanding features for a React Native app</h3>
+<h3>Currently, I'm building new features for a client's React Native app.</h3>
 
 <h3 align="center">You can find me here:</h3>
 <p align="center">
